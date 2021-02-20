@@ -1,0 +1,35 @@
+/* Little bit of styling of H1 and paragraph*/
+h1{
+  padding:2rem;
+  margin:auto;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-decoration: underline;
+  font-weight: 20px;
+  text-align:center;
+}
+/*Paragraph desiging*/
+p{
+  padding: 1rem;
+  margin:auto;
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  
+}
+
+/*Button styling*/
+
+button{
+  position: fixed;
+  top: 50%;
+  right:50%;
+  border: 5px solid black;
+  font-size: 30px;
+}
+
+/* To use this class in JavaScript */
+
+.class-mode{
+  background-color: black;
+  color:white;
+}
